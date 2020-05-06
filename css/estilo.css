@@ -1,0 +1,8 @@
+.my-card .my-card__description, .my-card .my-card__author {
+    font-family: 'Roboto', 'Arial';
+}
+
+.my-card .my-card__title {
+    font-family: 'Playfair Display', 'Times New Roman';
+    font-weight: bold;
+}
